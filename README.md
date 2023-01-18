@@ -1,6 +1,6 @@
 # Enrollee-detail-dashboard
 <h2>Introduction</h2>
-<h3>In this Powerbi dashboard, I completed the assignment that I received from PaperPedia and visualized enrollee registration dataset.</h3>
+<h3>With the Powerbi dashboard, I was able to successfully complete the assignment from PaperPedia. The dataset I worked with contained enrollee registration information, which I was able to organize and visualize in an easy to understand manner. This process of sorting and displaying the data made it simpler for viewers to get a better understanding of the results.</h3>
 <h2>Page1</h2>
 <h3>In the Powerbi task, the first page of the dashboard displayed the enrollee details. We used pie chart enrollee id to show enrollee education level and experience. After that in column chart I check the gender of all enrollee. Now after that in the same page of dashboard I have checked the sum of target by city and by training hour in line chart and area chart.</h3>
 
